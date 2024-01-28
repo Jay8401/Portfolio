@@ -182,7 +182,7 @@ const workExperiences = {
       company: "Divyvy AI",
       companylogo: require("./assets/images/divyvy.png"),
       date: "Jan 2024 – Present",
-      desc: "Back end developer"
+      desc: "End-to-end developer ensuring smooth frontend-backend integration, efficient APIs, and optimal performance in a Flask and NextJS environment."
     }
   ]
 };
@@ -204,7 +204,7 @@ const bigProjects = {
     {
       image: require("./assets/images/divyvy.png"),
       projectName: "Divyvy AI",
-      projectDesc: "Building BlinkStudio.",
+      projectDesc: "Contributing to the development of BlinkStudio.",
       footerLink: [
         {
           name: "Visit Website",
