@@ -132,7 +132,7 @@ const educationInfo = {
     {
       schoolName: "Vishwakarma Government Engineering College",
       logo: require("./assets/images/vgecLogo.jpg"),
-      subHeader: "Bachelor of Engneering in Mechanical",
+      subHeader: "Bachelor of Engineering in Mechanical",
       duration: "August 2017 - June 2024"
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
@@ -171,7 +171,7 @@ const workExperiences = {
       company: "Dynamic Code Swith",
       companylogo: require("./assets/images/dcs.png"),
       date: "May 2023 – July 2023",
-      desc: "Worked on Front end and Back end side of clinet website.",
+      desc: "Worked on Front end and Back end side of client website.",
       descBullets: [
         "Implemented the form and accordion component, enhancing the frontend’s FAQ section.",
         "Implemented GoogleOauth for secure authentication."
@@ -199,7 +199,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HAVE HELPED TO CREATE THEIR TECH",
   projects: [
     {
       image: require("./assets/images/divyvy.png"),
@@ -217,7 +217,7 @@ const bigProjects = {
       image: require("./assets/images/chatbyte.png"),
       projectName: "ChatByte",
       projectDesc:
-        "Real time chat application to communicate betwwen close comminuty.",
+        "Real time chat application to communicate between close community.",
       footerLink: [
         {
           name: "Visit Website",
@@ -253,7 +253,7 @@ const achievementSection = {
     {
       title: "DSA using C++",
       subtitle:
-        "Completed Certifcation from Udemy for Data structure and algorithms.",
+        "Completed Certification from Udemy for Data structure and algorithms.",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
@@ -266,7 +266,7 @@ const achievementSection = {
 
     {
       title: "Node.js - Master fundamentals",
-      subtitle: "Completed Certifcation from Scalar for Node.js",
+      subtitle: "Completed Certification from Scalar for Node.js",
       image: require("./assets/images/scalar.avif"),
       imageAlt: "Scalar Logo",
       footerLink: [
